@@ -1,5 +1,5 @@
 # OmahaCode.com
-## Learn to code. Online tutorial and and reference site for any level.
+## Learn to code. A tutorial site for aspiring developers and designers.
 ### [Omaha Code](https://omahacode.com/)
 ### [Open Source Project](https://nhumphrey2.github.io/Dead-Sea-Scrolls/)
 
